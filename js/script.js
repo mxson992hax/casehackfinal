@@ -34,7 +34,7 @@ var acceptedsound = true;
 var inventory = {};
 var jackpotInventory = {};
 
-var inventoryMax = 99999999999999999999;
+var inventoryMax = 899999999999999999999;
 var inventoryCurrent = 0;
 
 var keyPrice = 2.50;
